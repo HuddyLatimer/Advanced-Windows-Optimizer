@@ -1,0 +1,75 @@
+{
+  "system_info": {
+    "cpu": {
+      "usage": [
+        9.4,
+        18.8,
+        13.8,
+        6.2,
+        0.0,
+        4.7
+      ],
+      "frequency": 3901.0,
+      "cores": 6
+    },
+    "memory": {
+      "total": 8457629696,
+      "available": 580448256,
+      "used_percent": 93.1
+    },
+    "disk": {
+      "read_speed": null,
+      "write_speed": null,
+      "free_space": 321186844672
+    },
+    "network": {
+      "interfaces": {
+        "Loopback Pseudo-Interface 1": [
+          true,
+          2,
+          1073,
+          1500,
+          ""
+        ],
+        "Wi-Fi": [
+          true,
+          2,
+          650,
+          1500,
+          ""
+        ],
+        "Local Area Connection* 1": [
+          false,
+          2,
+          0,
+          1500,
+          ""
+        ],
+        "Local Area Connection* 10": [
+          false,
+          2,
+          0,
+          1500,
+          ""
+        ]
+      },
+      "connections": 376
+    }
+  },
+  "optimizations_applied": {},
+  "performance_metrics": {
+    "fps_test": {
+      "avg_fps": null,
+      "min_fps": null,
+      "max_fps": null
+    },
+    "network_latency": {
+      "8.8.8.8": null,
+      "1.1.1.1": null
+    },
+    "disk_speed": {
+      "read_speed": null,
+      "write_speed": null
+    }
+  }
+}
